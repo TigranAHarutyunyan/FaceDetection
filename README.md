@@ -1,6 +1,3 @@
-# FaceDetection
-# Simplified Project Description: Faces Extractor
-## 1. Introduction
 ### Project Title: Faces Extractor
 ### Short Description:
 Faces Extractor is a program that detects and extracts faces from videos, then enhances their quality using deep learning.
