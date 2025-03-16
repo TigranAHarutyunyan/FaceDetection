@@ -27,8 +27,8 @@ Faces Extractor is a program that detects and extracts faces from videos, then e
 ## 6. Results
 - Extracted faces with 85-95% accuracy.
 - Improved image quality by 2x to 4x.
-- Handles real-time and batch processing.
-##7. Future Work
+- Handles real-time and batch processing։
+## 7. Future Work
 - Add real-time processing with GPU support.
 - Train custom models for better enhancement.
 - Include face recognition and tracking.
